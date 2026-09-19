@@ -6,7 +6,7 @@ export default function ProductGrid() {
     {
       title: "POS Systems",
       desc: "Streamline your sales, inventory and customer management with our powerful POS solutions.",
-      image: "/pos-product.png",
+      image: "/pos.jpg",
       link: "/products/pos-systems",
       icon: (
         <svg className="w-6 h-6 text-[#FF6600]" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">

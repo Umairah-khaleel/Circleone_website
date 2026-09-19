@@ -6,7 +6,7 @@ export default function Products() {
     {
       title: "POS Systems",
       desc: "Complete point of sale solutions for retail, restaurants, and businesses of all sizes.",
-      image: "/pos-product.png",
+      image: "/pos.jpg",
       link: "/products",
       icon: (
         <svg className="w-6 h-6 text-[#FF6600]" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
